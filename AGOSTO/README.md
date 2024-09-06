@@ -7,6 +7,15 @@ A **V3 Tecnologia** está com algumas oportunidades incríveis no ar! Confira as
 🔧 **Desenvolvedor Pleno Android Embarcado**
 [Descrição Completa](https://github.com/v3-tecnologia/descricoes-de-cargos/blob/main/desenvolvedor-pleno-backend-na-v3.md)
 
+💻 **Desenvolvedor Pleno Backend**
+[Descrição Completa](https://github.com/v3-tecnologia/descricoes-de-cargos/blob/main/desenvolvedor-pleno-backend-na-v3.md)
+
+🛠️ **Tech Lead Android Embarcado**
+[Descrição Completa](https://github.com/v3-tecnologia/descricoes-de-cargos/blob/main/tech-lead-android-embarcado-na-v3.md)
+
+👨‍💻 **Tech Lead Backend**
+[Descrição Completa](https://github.com/v3-tecnologia/descricoes-de-cargos/blob/main/tech-lead-backend-na-v3.md)
+
 Nas descrições você vai encontrar tudo que precisa saber, incluindo:
 
 - 🌟 Sobre a V3;
