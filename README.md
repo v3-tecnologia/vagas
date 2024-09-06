@@ -1,4 +1,4 @@
-# Vagas na V3 - Agosto 2023
+# Vagas na V3 - Setembro 2023
 
 🚀 **Fala, galera! Tudo na paz?** 😎
 
